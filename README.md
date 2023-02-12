@@ -7,11 +7,11 @@
 Algo ValoresDeLasVariables  
 variable a, b: entero  
 Inicio  
-   a <- 3  
+   a <- 3                                       a=3
    escribir("a = " & a)  
-   b<-a+5  
+   b<-a+5                                       a=3 y b=8
    escribir("a = " & a & " y b = " & b)  
-   a<-7  
+   a<-7                                         a=7 y b=8
    escribir("a = " & a & " y b = " & b)  
 Fin 
 
@@ -30,14 +30,16 @@ Inicio
    cadena1 <- "Test"  
    escribir(cadena1 & " , valor2 = " & valor2)  
    escribir(valor1 & " # " & CST)  
-Fin 
+Fin                                                           
+
+## -Solucion: Test , valor2 = 8  y  4 # 49.78
 
 ## -Ejercicio 3:
 
 ¿Qué hace este algoritmo?
 
 Algo QueHace  
- ¿Qué hace este algoritmo?  
+ ¿Qué hace este algoritmo?                             
 Variable valor1, valor2: real  
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
@@ -47,6 +49,7 @@ Inicio
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
+## -Solucion El algoritmo realiza una relacion entre los dos valores introducidos
 
 
 ## -Ejercicio 4:

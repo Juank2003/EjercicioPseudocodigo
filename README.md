@@ -1,7 +1,7 @@
 # EjercicioPseudocodigo
 ## Nota : Mi repositorio https://github.com/Juank2003/EjercicioPseudocodigo.git
 
-## Ejercicio 1
+## -Ejercicio 1
 ¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
 
 Algo ValoresDeLasVariables  
@@ -15,7 +15,7 @@ Inicio
    escribir("a = " & a & " y b = " & b)  
 Fin 
 
-## Ejercicio 2
+## -Ejercicio 2
 
 ¿Qué veremos al ejecutar el siguiente algoritmo?
 
@@ -32,7 +32,7 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-## Ejercicio 3:
+## -Ejercicio 3:
 
 ¿Qué hace este algoritmo?
 
@@ -49,7 +49,7 @@ Inicio
 Fin 
 
 
-## Ejercicio 4:
+## -Ejercicio 4:
 
 Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 

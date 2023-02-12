@@ -20,7 +20,7 @@ Fin
 ¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
-# ¿Qué veremos al ejecutar el siguiente algoritmo?  
+¿Qué veremos al ejecutar el siguiente algoritmo?  
 Variable valor1, valor2: entero  
 Variable cadena1: texto  
 Constante CST: real <- 49,78  
@@ -37,7 +37,7 @@ Fin
 ¿Qué hace este algoritmo?
 
 Algo QueHace  
-# ¿Qué hace este algoritmo?  
+ ¿Qué hace este algoritmo?  
 Variable valor1, valor2: real  
 Inicio  
    valor1 <- enter("Introduza un valor: ")  

@@ -1,1 +1,2 @@
 # EjercicioPseudocodigo
+## Nota : Mi repositorio

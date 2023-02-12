@@ -16,6 +16,7 @@ Inicio
 Fin 
 
 ## Ejercicio 2
+
 ¿Qué veremos al ejecutar el siguiente algoritmo?
 
 Algo QueVeremos 
@@ -32,6 +33,7 @@ Inicio
 Fin 
 
 ## Ejercicio 3:
+
 ¿Qué hace este algoritmo?
 
 Algo QueHace  
@@ -48,6 +50,7 @@ Fin
 
 
 ## Ejercicio 4:
+
 Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
